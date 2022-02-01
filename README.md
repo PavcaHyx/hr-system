@@ -14,8 +14,8 @@ and much more..
 
 **Aplication can do:**
 
-* store the data we enter into it,
-* retrieve the data based on input criteria,
+* store the data we enter into it
+* retrieve the data based on input criteria
 * show the data
 * remove the data
 * create backup of file with data
@@ -25,4 +25,5 @@ HR System have basic interface of terminal window. Therefore all the interaction
 
 
 **How to run this application:**
+
 command: app.py [backup]
